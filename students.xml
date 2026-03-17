@@ -2,12 +2,12 @@
 <?xml-stylesheet type="text/xsl" href="students.xsl"?>
 <University>
     <student id="101">
-        <Name>Abhishek</Name>
+        <Name>Charishma</Name>
         <Role>Student</Role>
         <Department>Computer Science</Department>
     </student>
     <student id="102">
-        <Name>Hasita</Name>
+        <Name>Cherry</Name>
         <Role>Student</Role>
         <Department>Computer Science AIML</Department>
     </student>
